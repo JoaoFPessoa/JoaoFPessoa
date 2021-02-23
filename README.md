@@ -9,7 +9,13 @@ Fala, Dev! Decidi seguir meu sonho de programar em junho de 2020, desde então s
 - MongoDB
 - React
 
+No momento busco me aprimorar no Back-end
 
+Você pode me contatar por esse e-mail: joaoppessoa@uol.com.br
+Ou pelo linkedin: https://www.linkedin.com/in/jppessoa/
+(se quiser me contRatar invés de contatar, será melhor ainda, rs)
+
+Sobre mim: amante da tecnologia e de games, fiel ao Tibia, isso, ao Tibia (razão de eu me apaixonar pela programação)
 
 <!--
 **JoaoFPessoa/JoaoFPessoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
