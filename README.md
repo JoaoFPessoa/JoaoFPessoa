@@ -1,5 +1,4 @@
-Fala, Dev! Decidi seguir meu sonho de programar em junho de 2020, desde então sigo apaixonado pela área e me aprimorando em teconologias como:
-
+Em constante aprimoramento, aqui embaixo vão algumas das tecnologias em que eu trabalho
 - HTML
 - CSS
 - Javascript
@@ -9,7 +8,6 @@ Fala, Dev! Decidi seguir meu sonho de programar em junho de 2020, desde então s
 - MongoDB
 - React
 
-No momento busco me aprimorar no Back-end
 
 Você pode me contatar por esse e-mail: joaoppessoa@uol.com.br
 Ou pelo linkedin: https://www.linkedin.com/in/jppessoa/
