@@ -1,31 +1,17 @@
-Em constante aprimoramento, aqui embaixo vão algumas das tecnologias em que eu trabalho
-- HTML
-- CSS
-- Javascript
-- TypeScript
-- Node.js
-- MySql
-- MongoDB
-- React
+👋 Hello World! I'm João Paulo Pessoa
+🚀 About Me
+I'm a passionate Frontend Developer who loves crafting beautiful and efficient web applications. With a focus on Next.js, React.js, TypeScript, Tailwind CSS, and Styled Components, I thrive on building intuitive user interfaces and delightful user experiences.
 
+🛠️ Tech Stack
+Next.js
+React.js
+TypeScript
+Tailwind CSS
+Styled Components
+...and much more!
 
-Você pode me contatar por esse e-mail: joaoppessoa@uol.com.br
-Ou pelo linkedin: https://www.linkedin.com/in/jppessoa/
-(se quiser me contRatar invés de contatar, será melhor ainda, rs)
-
-Sobre mim: amante da tecnologia e de games, fiel ao Tibia, isso, ao Tibia :sweat_smile: (razão de eu me apaixonar pela programação)
-
-<!--
-**JoaoFPessoa/JoaoFPessoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's Connect!
+LinkedIn: [JoaoFPessoa](https://www.linkedin.com/in/jppessoa/)
+Portfolio: JuaoDev(https://joaodev.vercel.app/)
+🌱 Always Learning
+I'm continuously exploring new technologies and refining my skills. Let's collaborate and build something amazing together!
