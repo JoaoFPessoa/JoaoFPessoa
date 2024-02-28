@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm João Paulo Pessoa
 
 ## 🚀 About Me
-I'm a passionate Frontend Developer who loves crafting beautiful and efficient web applications. With a focus on Next.js, React.js, TypeScript, Tailwind CSS, and Styled Components, I thrive on building intuitive user interfaces and delightful user experiences.
+I'm a Brazilian Frontend Developer with three years of experience. Passionate about creating engaging web experiences, I specialize in crafting intuitive user interfaces and seamless interactions. With expertise in Next.js, React.js, TypeScript, Tailwind CSS, and Styled Components, I'm dedicated to building exceptional interfaces and solutions for my clients.
 
 
 ## 🛠️ Tech Stack
